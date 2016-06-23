@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 Is a temporal space, like a meta folder, which serves to decide which files and changes will  be commited. 
 Its great beacause we cann hold on and think before commit changes or maybe have a file added to the stage during we work on it and then just commit the final version for thta specific change.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+checking git diff we can see how many changes we are next to commit. The estagin area serves as double check that we are making the right changes

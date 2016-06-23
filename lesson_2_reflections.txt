@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 git metadata is created into the directory and we need to start trackin files and do an initial commint.
 Because whitout initialice the repo we cannot make sense of using git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Is a temporal space, like a meta folder, which serves to decide which files and changes will  be commited. 
+Its great beacause we cann hold on and think before commit changes or maybe have a file added to the stage during we work on it and then just commit the final version for thta specific change.

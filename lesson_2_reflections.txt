@@ -21,3 +21,8 @@ You can see where exactly the branch was created and its relation (along time or
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Parallel changes combines adding all the features together,because after merging the child start a new branch labeled as master, but it is the result of merge two previous branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros atomatic merging: Don't have to review all the code in order to know where and how to merge, it saves time.
+Cons automatic merging: The algorithm isn't smart enough to resolv conflicts so it demands hand review of changes and conflict solving prior to merging

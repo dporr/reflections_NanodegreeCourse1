@@ -17,3 +17,7 @@ When you have features not directly related whit the productive version. During 
 
 How do the diagrams help you visualize the branch structure?
 You can see where exactly the branch was created and its relation (along time or commints) relate to other brances
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Parallel changes combines adding all the features together,because after merging the child start a new branch labeled as master, but it is the result of merge two previous branches.
